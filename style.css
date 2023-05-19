@@ -1,6 +1,6 @@
 body {
   margin: 5% 10%;
-  background-color: rgb(29,161,242);
+  background-color: rgb(29, 161, 242);
 }
 
 .like-glyph {
@@ -11,7 +11,7 @@ body h1 {
   color: #FFF;
 }
 
-body > header {
+body>header {
   margin-bottom: 5%;
 }
 
@@ -21,21 +21,21 @@ article.media-post {
   background-color: #fff;
 }
 
-article.media-post > p {
-  background-color: rgba(0,123,255,0.25);
+article.media-post>p {
+  background-color: rgba(0, 123, 255, 0.25);
   padding: 1em 2em;
 }
 
-article.media-post > header {
+article.media-post>header {
   padding: 1em 2em;
-  background-color: rgb(225,232,237);
+  background-color: rgb(225, 232, 237);
 }
 
-article.media-post > footer {
-  color: rgb(170,184,194);
+article.media-post>footer {
+  color: rgb(170, 184, 194);
 }
 
-article.media-post > footer ul {
+article.media-post>footer ul {
   list-style-type: none;
 }
 
